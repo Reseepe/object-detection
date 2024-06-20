@@ -97,7 +97,7 @@ POST /object-to-image
 
 Example Response
 
-<img src="https://drive.google.com/file/d/1-DdB7zIUNR-S1qz1D1ptEGnRSLG9oU4h/view?usp=drive_link" alt="Response Image">
+![alt text](http://assets/sample_response.jpg)
 
 
 Bangkit Team C241-PS428
