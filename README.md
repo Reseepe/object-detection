@@ -94,7 +94,6 @@ POST /object-to-image
 | Parameter     | Type      | Description                           |
 | :--------     | :---      | :==========                           |
 | `file      `  | `image `  | **Required**. Ingredients Photo       |
-```
 
 Example Response
 
