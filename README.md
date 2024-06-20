@@ -53,10 +53,9 @@ uvicorn main:app --port 8080
 POST /object-to-json
 ```
 
-| Parameter     | Type      | Description                           |
-| :--------     | :---      | :==========                           |
-| `file      `  | `image `  | **Required**. Ingredients Photo       |
-```
+| Parameter | Type | Description |
+| --------- | ---- | ----------- |
+| `file` | `image ` | **Required**. Ingredients Photo |
 
 Example Response
 
@@ -91,9 +90,9 @@ Example Response
 POST /object-to-image
 ```
 
-| Parameter     | Type      | Description                           |
-| :--------     | :---      | :==========                           |
-| `file      `  | `image `  | **Required**. Ingredients Photo       |
+| Parameter | Type | Description |
+| --------- | ---- | ----------- |
+| `file` | `image ` | **Required**. Ingredients Photo |
 
 Example Response
 
