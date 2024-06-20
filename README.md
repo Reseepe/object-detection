@@ -49,8 +49,8 @@ uvicorn main:app --port 8080
 
 #### Get Ingredients list (json)
 
-```json
-    POST /object-to-json
+```
+POST /object-to-json
 ```
 
 | Parameter     | Type      | Description                           |
@@ -87,8 +87,8 @@ Example Response
 
 #### Get Ingredients list (image)
 
-```json
-    POST /object-to-image
+```
+POST /object-to-image
 ```
 
 | Parameter     | Type      | Description                           |
