@@ -97,7 +97,7 @@ POST /object-to-image
 
 Example Response
 
-![alt text](http://assets/sample_response.jpg)
+![example_response](./assets/sample_response.jpg)
 
 
 Bangkit Team C241-PS428
