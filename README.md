@@ -2,11 +2,6 @@
 
 This is a repository for the Object Detection Service using Python, YoloV5, and FastAPI. This service allows user to scan ingredients using object detection and receive the ingredients list from their photo.
 
-## Feature
-
--
--
-
 ## Directory Structure
 
 ```bash
@@ -96,7 +91,7 @@ POST /object-to-image
 
 Example Response
 
-![example_response](./assets/sample_response.jpg)
+![example_response](./assets/sample_response2.jpg)
 
 
 Bangkit Team C241-PS428
